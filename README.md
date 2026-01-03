@@ -1,9 +1,9 @@
 # 🏋️ Gym Management System
 
 ## 📌 Project Overview
-The **Gym Management System** is a desktop-based application developed in **C++ using the Qt framework**.  
-This project is designed to manage gym-related operations efficiently through a graphical user interface (GUI).  
-It demonstrates core programming concepts such as **Object-Oriented Programming (OOP)**, file organization, and GUI-based application development.
+The Gym Management System is a desktop-based application developed in C++ using the Qt framework.
+This semester project is designed to efficiently manage gym-related operations through an intuitive graphical user interface (GUI).
+It demonstrates core programming concepts such as file handling and organization, and GUI-based application development.
 
 ---
 
@@ -15,12 +15,12 @@ It demonstrates core programming concepts such as **Object-Oriented Programming 
 ---
 
 ## 🛠️ Technologies Used
-- **Programming Language:** C++
-- **Framework:** Qt (Qt Widgets)
-- **IDE:** Qt Creator
-- **Programming Paradigm:** Object-Oriented Programming (OOP)
 
----
+Programming Language: C++
+
+Framework: Qt (Qt Widgets)
+
+IDE: Qt Creator
 
 
 
