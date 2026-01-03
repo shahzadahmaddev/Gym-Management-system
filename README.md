@@ -77,7 +77,7 @@ IDE: Qt Creator
 ---
 
 ## 🎓 Academic Purpose
-This project is developed for **educational purposes** as part of a **Programming Fundamentals / Object-Oriented Programming semester project**.
+This project is developed for **educational purposes** as part of a **Programming Fundamentals**
 
 ---
 
