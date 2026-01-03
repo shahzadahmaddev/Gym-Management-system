@@ -23,7 +23,14 @@ It demonstrates core programming concepts such as **Object-Oriented Programming 
 ---
 
 ## 📂 Project Structure
-
+Gym-Management-System/
+│
+├── main.cpp
+├── mainwindow.cpp
+├── mainwindow.h
+├── mainwindow.ui
+├── PROJECT 1.cpp
+└── README.md
 
 ---
 
